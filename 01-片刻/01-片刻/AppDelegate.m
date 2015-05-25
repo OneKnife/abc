@@ -11,7 +11,7 @@
 #import "PKLeftMenuController.h"
 #import "PKHomeViewController.h"
 
-//草isvhsdkmvlfjxvfklxbhvosjkjbvdfkjbvdlfk
+//草sdkmvlfjxvfklxbhvosjkjbvdfkjbvdlfk
 @interface AppDelegate ()
 
 @end
