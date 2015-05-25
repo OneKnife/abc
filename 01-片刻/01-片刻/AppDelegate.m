@@ -12,7 +12,7 @@
 #import "PKHomeViewController.h"
 
 
-//草sdkmvlfjxvfklxbhvosjkjbvdfkjbvdlfk
+//草
 
 
 @interface AppDelegate ()
