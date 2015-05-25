@@ -5,7 +5,11 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< HEAD
 	<string>F95CD18A-D430-4285-AF5E-25E72B79E438</string>
+=======
+	<string>697E8CDE-675E-425B-B15F-D9F3579BF41C</string>
+>>>>>>> origin/master
 	<key>IDESourceControlProjectName</key>
 	<string>01-片刻</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -34,7 +38,11 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>923B6BBCF1BDF1043AA98A62F430C49847531993</string>
 			<key>IDESourceControlWCCName</key>
+<<<<<<< HEAD
 			<string>theMoment</string>
+=======
+			<string>abc</string>
+>>>>>>> origin/master
 		</dict>
 	</array>
 </dict>
